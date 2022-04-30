@@ -1,0 +1,17 @@
+site_name: MDA-2022
+theme:
+  name: material
+  logo:
+    icon: cloud_circle
+  palette:
+    primary: 'Blue'
+    accent: 'Red'
+nav:
+- Home: 'README.md'
+- Containers:
+  - Overview: containers/overview.md
+- Ansible:
+  - Overview: ansible/overview.md
+epo_url: 'https://github.com/caifti/mda-2022'
+markdown_extensions: [codehilite]
+
