@@ -12,6 +12,6 @@ nav:
   - Overview: containers/overview.md
 - Ansible:
   - Overview: ansible/overview.md
-epo_url: 'https://github.com/caifti/mda-2022'
+repo_url: 'https://github.com/caifti/mda-2022'
 markdown_extensions: [codehilite]
 
